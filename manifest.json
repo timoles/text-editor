@@ -1,7 +1,7 @@
 {
-  "name": "Teams",
-  "short_name": "Teams",
-  "description": "Text Editor - Demo for the HTML5 File System Access API.",
+  "name": "TeamsTimo",
+  "short_name": "TeamsTimo",
+  "description": "TeamsTimo",
   "start_url": "./",
   "display": "standalone",
   "theme_color": "#1a237e",
